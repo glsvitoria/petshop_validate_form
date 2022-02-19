@@ -27,7 +27,8 @@
  3. Após clonar o projeto, basta apenas abrir o html principal do site e utilizar as suas funcionalidades
 
 ### Screenshot
-![](./imagens/Screenshot.PNG)
+![](./assets/img/Screenshot.PNG)
+![](./assets/img/Screenshot2.PNG)
 
 ## Processo
 
